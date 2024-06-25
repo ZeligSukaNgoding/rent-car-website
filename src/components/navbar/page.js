@@ -31,13 +31,12 @@ const Navbar = () => {
               </label>
             </div>
             <Link href="/">
-              <Image src={Logo} width={80} />
+              <Image src={Logo} alt="Logo" width={80} />
             </Link>
           </div>
           <div className="navbar-end hidden lg:flex">
             <ul className="menu menu-horizontal px-1 font-bold">
               <li>
-                
                 <Link href="/home">Home</Link>
               </li>
               <li>
