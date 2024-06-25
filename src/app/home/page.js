@@ -15,9 +15,9 @@ const HomePage = () => {
           <div className="text-white">
             <div className="pt-6">
               <p className="text-4sm text-white text-center non-italic">
-                "Layanan rental mobil ini luar biasa! Mobilnya bersih dan dalam
+              &quot;Layanan rental mobil ini luar biasa! Mobilnya bersih dan dalam
                 kondisi sangat baik. Proses penyewaannya cepat dan stafnya
-                sangat ramah dan profesional. Sangat direkomendasikan!"
+                sangat ramah dan profesional. Sangat direkomendasikan!&quot;
               </p>
               <h1 className="text-2xl pt-4 flex-row text-center italic">
                 Ranu Lapisan Ozon
